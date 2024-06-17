@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\API Versioning .NET Core\\Ex_Files_Advanced_Web_APIs_ASP_dot_NET\\Ex_Files_Advanced_Web_APIs_ASP_dot_NET\\Exercise Files\\00_03b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2227463-D270-4880-A3C4-96F4F4F8363B}|HPlusSport.API\\HPlusSport.API.csproj|c:\\api versioning .net core\\ex_files_advanced_web_apis_asp_dot_net\\ex_files_advanced_web_apis_asp_dot_net\\exercise files\\00_03b\\hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2227463-D270-4880-A3C4-96F4F4F8363B}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\API Versioning .NET Core\\Ex_Files_Advanced_Web_APIs_ASP_dot_NET\\Ex_Files_Advanced_Web_APIs_ASP_dot_NET\\Exercise Files\\00_03b\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\API Versioning .NET Core\\Ex_Files_Advanced_Web_APIs_ASP_dot_NET\\Ex_Files_Advanced_Web_APIs_ASP_dot_NET\\Exercise Files\\00_03b\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:17:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
